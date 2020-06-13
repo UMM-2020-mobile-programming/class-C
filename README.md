@@ -19,3 +19,8 @@ Link https://github.com/UMM-2020-mobile-programming/furniture.git
 2. Wana Salma Labibah(2018-118)
 3. Moch. Syafiq Wahyu Anggara(2018-128)
 4. Muhammad Fahruddin Izzulhaq(2018-133)
+
+Caffeis (120,196,209)
+1. Anisa Dewi Anggraeni (2018-120)
+2. Ridha Rizkia Putri (2018-196)
+3. Muhammad Arya Dewangga (2018-209)
